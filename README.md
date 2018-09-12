@@ -4,7 +4,7 @@ Class plan, teaching objects, assignments, textbook, dates, classroom, office ho
 This is a non-credit course. The only requirement is: 
 ### You have to make the commitment in Learning, Programming and Sharing.
 
-## Object of this course
+## Learning objects of this course
 1. Build up your resume with python skill
 2. Have your individual data analytics project finished and post in student project showcase server (building in progress)
 3. Can talk about basic statistics, machine learning, natural language processing and deep learning in tech interview
