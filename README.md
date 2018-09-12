@@ -16,7 +16,7 @@ More detail:
 9. Nov 18th 1:30 - 3:30 pm Intro to machine learning with python package: sklearn
 10. Dec 2nd 1:30 - 3:30 pm Intro to natural language processing with python package: nltk
 11. Dec 9th 1:30 - 3:30 pm Intro to deep learning with python package: tensorflow & Keras
-12. Dec 16th 1:30 - 3:30 pm Student Midterm Project presentation
+12. Dec 16th 1:30 - 3:30 pm Student Final Project presentation
 
 ## Office hour
 Please reserve my office hour appointment in the link:
