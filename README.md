@@ -9,7 +9,7 @@ This is a non-credit course. The only requirement is:
 2. Have your individual data analytics project finished and post in student project showcase server (building in progress)
 3. Can talk about basic statistics, machine learning, natural language processing and deep learning in tech interview
 4. Know how to approach the analytics problem for take-home interview assignment
-4. Teach other students and friends who ever want to learn programming
+4. Can teach other students and friends who ever want to learn programming
 
 ## Class plan
 This would be a 12-week Introduction to Python for data analytics programming course for TC and Columbia students, every Sunday from 1:30 pm to 3:30 pm. The first class would be on Sep 23rd.
