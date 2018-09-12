@@ -2,7 +2,7 @@
 Class plan, teaching objects, assignments, dates, classroom, office hour and more
 
 ## Class plan
-This would be a 12-week Introduction to Python for data analytics programming course for TC and Columbia students, every Sunday from 1:30 pm to 3:30 pm. The first class would be on Sep 23th.
+This would be a 12-week Introduction to Python for data analytics programming course for TC and Columbia students, every Sunday from 1:30 pm to 3:30 pm. The first class would be on Sep 23rd.
 
 More detail:
 1. Sep 23rd 1:30 - 3:30 pm Introduction to Python and Data Exploration
