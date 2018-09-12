@@ -31,11 +31,16 @@ More detail:
 ## Textbook
 There is no required textbook for this course, and so as the real world. 
 This is a project-based learning course. Each of you will have individual specific interested industry and research method. For each track, I recommend textbooks as below:
-General: Python Data Science Handbook: Essential Tools for Working with Data by VanderPlas
-Data Visualization: https://matplotlib.org/
-Machine Learning: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Géron
-Deep Learning: Deep Learning with Python by Chollet
-Natural Language Processing: Natural Language Processing with Python by Bird, Klein and Loper
+### General: 
+Python Data Science Handbook: Essential Tools for Working with Data by VanderPlas
+### Data Visualization: 
+https://matplotlib.org/
+### Machine Learning: 
+Hands-On Machine Learning with Scikit-Learn and TensorFlow by Géron
+### Deep Learning: 
+Deep Learning with Python by Chollet
+### Natural Language Processing: 
+Natural Language Processing with Python by Bird, Klein and Loper
 
 
 ## Office hour
