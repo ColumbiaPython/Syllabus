@@ -18,9 +18,12 @@ More detail:
 11. Dec 9th 1:30 - 3:30 pm Intro to deep learning with python package: tensorflow & Keras
 12. Dec 16th 1:30 - 3:30 pm Student Midterm Project presentation
 
-## office hour
+## Office hour
 Please reserve my office hour appointment in the link:
 https://calendar.google.com/calendar/selfsched?sstoken=UUVhd3J6RjJBeF92fGRlZmF1bHR8NTkzODQ0MTliYTQ4Y2QyOTg4YWFkZGYxMTVmOTNiNWE
-Tuesday 4-6pm Lewisohn hall 504a 
+### Tuesday 4-6pm Lewisohn hall 504a 
 
 
+## About the instructor
+Xiaoting Kuang, Ed.D Candidate in Teachers College, Columbia University, Adjunct Associate Faculty in School of Professional Studies, Columbia University. 
+Python programmer, R statistician, iOS developer. Interested in natural language processing, knowledge mapping and cognitive science. Applied statistics, deep learning /neural network modelings, and machine learning methods for problem-solving.
