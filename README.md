@@ -2,7 +2,7 @@
 Class plan, teaching objects, assignments, textbook, dates, classroom, office hour and more
 
 This is a non-credit course. The only requirement is: 
-# You have to make the commitment in learning, Programming and Sharing.
+# You have to make the commitment in Learning, Programming and Sharing.
 
 ## Class plan
 This would be a 12-week Introduction to Python for data analytics programming course for TC and Columbia students, every Sunday from 1:30 pm to 3:30 pm. The first class would be on Sep 23rd.
