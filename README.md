@@ -1,22 +1,27 @@
 # Syllabus
-Class plan, teaching objects, assignments, dates, classroom, office hour and more
+Class plan, teaching objects, assignments, textbook, dates, classroom, office hour and more
+
+This is a non-credit course. The only requirement is: 
+# You have to make the commitment in learning, Programming and Sharing.
 
 ## Class plan
 This would be a 12-week Introduction to Python for data analytics programming course for TC and Columbia students, every Sunday from 1:30 pm to 3:30 pm. The first class would be on Sep 23rd.
 
+
+
 More detail:
 1. Sep 23rd 1:30 - 3:30 pm Introduction to Python and Data Exploration
-2. Sep 30th 1:30 - 3:30 pm Data Tidying with Pandas and Numpy python packages
+2. Sep 30th 1:30 - 3:30 pm Data Tidying with Pandas and Numpy python packages (HW1: research proposal)
 3. Oct 7th 1:30 - 3:30 pm Chi Square Test and Research Design
-4. Oct 14th 1:30 - 3:30 pm Linear Regression for Data Analytics
+4. Oct 14th 1:30 - 3:30 pm Linear Regression for Data Analytics (HW2: data collection and clearning, HW1 due)
 5. Oct 21st 1:30 - 3:30 pm Logistic Regression for Data Analytics
-6. Oct 28th 1:30 - 3:30 pm Multivariate Analysis and result interpretation
-7. Nov 4th 1:30 - 3:30 pm Student Midterm Project presentation
-8. Nov 11th 1:30 - 3:30 pm Data Visualization with Matplotlib, Seaborn and Flask
+6. Oct 28th 1:30 - 3:30 pm Multivariate Analysis and result interpretation (HW3: data analysis report, HW2 due)
+7. Nov 4th 1:30 - 3:30 pm Student Midterm Project presentation (proposal hearing, HW1-3 demo)
+8. Nov 11th 1:30 - 3:30 pm Data Visualization with Matplotlib, Seaborn and Flask (HW4: data visualization)
 9. Nov 18th 1:30 - 3:30 pm Intro to machine learning with python package: sklearn
-10. Dec 2nd 1:30 - 3:30 pm Intro to natural language processing with python package: nltk
+10. Dec 2nd 1:30 - 3:30 pm Intro to natural language processing with python package: nltk (HW5: model evaluation, HW4 due)
 11. Dec 9th 1:30 - 3:30 pm Intro to deep learning with python package: tensorflow & Keras
-12. Dec 16th 1:30 - 3:30 pm Student Final Project presentation
+12. Dec 16th 1:30 - 3:30 pm Student Final Project presentation (HW1-5 project demo)
 
 ## Office hour
 Please reserve my office hour appointment in the link:
