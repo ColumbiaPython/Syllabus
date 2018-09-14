@@ -5,7 +5,7 @@ This is a non-credit course. The only requirement is:
 ### You have to make the commitment in Learning, Programming and Sharing.
 
 ## Learning objects of this course
-1. Build up your resume with python skill
+1. Build up your resume with Python skills
 2. Have your individual data analytics project finished and post in student project showcase server (building in progress)
 3. Can talk about basic statistics, machine learning, natural language processing and deep learning in tech interview
 4. Know how to approach the analytics problem for take-home interview assignment
