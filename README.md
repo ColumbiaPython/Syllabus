@@ -5,7 +5,6 @@ This is a non-credit course. The only requirement is:
 ### You have to make the commitment in Learning, Programming and Sharing.
 
 ## Learning objects of this course
-Each weekly topic could be extented into a semester course. This course is served as an introduction to the programming world. I bring you to the door and tell you how to look at the road signs. You need to walk along the path on your own.
 
 1. Build up your resume with Python skills
 2. Have your individual data analytics project finished and post in student project showcase server (building in progress)
@@ -29,6 +28,8 @@ More detail:
 10. Dec 2nd 1:30 - 3:30 pm Intro to natural language processing with python package: nltk (HW5: model evaluation, HW4 due)
 11. Dec 9th 1:30 - 3:30 pm Intro to deep learning with python package: tensorflow & Keras
 12. Dec 16th 1:30 - 3:30 pm Student Final Project presentation (HW1-5 project demo)
+
+Each weekly topic could be extented into a semester course. This course is served as an introduction to the programming world. I bring you to the door and tell you how to look at the road signs. You need to walk along the path on your own.
 
 ## Textbook
 There is no required textbook for this course, and so as the real world. 
