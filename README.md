@@ -13,23 +13,23 @@ This is a non-credit course. The only requirement is:
 4. Can teach other students and friends who ever want to learn programming
 
 ## Class plan
-This would be a 12-week Introduction to Python for data analytics programming course for TC and Columbia students, every Sunday from 12:30 - 2:15 pm. The first class would be on Sep 23rd.
+This would be a 12-week Introduction to Python for data analytics programming course for TC and Columbia students, every Sunday from 1 pm - 2:30 pm. The first class would be on Sep 23rd.
 
 Location: 424 Horace Mann @Teachers College, Columbia University, 120th street cross with Broadway, NYC
 
 More detail:
-1. Sep 23rd 12:30 - 2:15 pm Introduction to Python and Data Exploration
-2. Sep 30th 12:30 - 2:15 pm Data Tidying with Pandas and Numpy python packages (HW1: research proposal)
-3. Oct 7th 12:30 - 2:15 pm Chi Square Test and Research Design
-4. Oct 14th 12:30 - 2:15 pm Linear Regression for Data Analytics (HW2: data collection and clearning, HW1 due)
-5. Oct 21st 12:30 - 2:15 pm Logistic Regression for Data Analytics
-6. Oct 28th 12:30 - 2:15 pm Multivariate Analysis and result interpretation (HW3: data analysis report, HW2 due)
-7. Nov 4th 12:30 - 2:15 pm Student Midterm Project presentation (proposal hearing, HW1-3 demo)
-8. Nov 11th 12:30 - 2:15 pm Data Visualization with Matplotlib, Seaborn and Flask (HW4: data visualization)
-9. Nov 18th 12:30 - 2:15 pm Intro to machine learning with python package: sklearn
-10. Dec 2nd 12:30 - 2:15 pm Intro to natural language processing with python package: nltk (HW5: model evaluation, HW4 due)
-11. Dec 9th 12:30 - 2:15 pm Intro to deep learning with python package: tensorflow & Keras
-12. Dec 16th 12:30 - 2:15 pm Student Final Project presentation (HW1-5 project demo)
+1. Sep 23rd 1 pm - 2:30 pm Introduction to Python and Data Exploration
+2. Sep 30th 1 pm - 2:30 pm Data Tidying with Pandas and Numpy python packages (HW1: research proposal)
+3. Oct 7th 1 pm - 2:30 pm Chi Square Test and Research Design
+4. Oct 14th 1 pm - 2:30 pm Linear Regression for Data Analytics (HW2: data collection and clearning, HW1 due)
+5. Oct 21st 1 pm - 2:30 pm Logistic Regression for Data Analytics
+6. Oct 28th 1 pm - 2:30 pm Multivariate Analysis and result interpretation (HW3: data analysis report, HW2 due)
+7. Nov 4th 1 pm - 2:30 pm Student Midterm Project presentation (proposal hearing, HW1-3 demo)
+8. Nov 11th 1 pm - 2:30 pm Data Visualization with Matplotlib, Seaborn and Flask (HW4: data visualization)
+9. Nov 18th 1 pm - 2:30 pm Intro to machine learning with python package: sklearn
+10. Dec 2nd 1 pm - 2:30 pm Intro to natural language processing with python package: nltk (HW5: model evaluation, HW4 due)
+11. Dec 9th 1 pm - 2:30 pm Intro to deep learning with python package: tensorflow & Keras
+12. Dec 16th 1 pm - 2:30 pm Student Final Project presentation (HW1-5 project demo)
 
 Each weekly topic could be extented into a semester course. This course is served as an introduction to the programming world. I bring you to the door and tell you how to look at the road signs. You need to walk along the path on your own.
 
