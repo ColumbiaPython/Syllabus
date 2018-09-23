@@ -18,8 +18,8 @@ This would be a 12-week Introduction to Python for data analytics programming co
 Location: 424 Horace Mann @Teachers College, Columbia University, 120th street cross with Broadway, NYC
 
 More detail:
-1. Sep 23rd 1 pm - 2:30 pm Introduction to Python, Data Structure, Data Clearning and Exploration
-2. Sep 30th 1 pm - 2:30 pm Chi Square Test, Lineaer & Logistic Regression and Multivariate Analysis (HW1: Research proposal)
+1. Sep 23rd 1 pm - 2:30 pm Intro to Python, Data Structure, Data Clearning and Exploration
+2. Sep 30th 1 pm - 2:30 pm Intro to Statistics Analysis: Chi Square Test, Lineaer & Logistic Regression and Multivariate Analysis (HW1: Research proposal)
 3. Oct 7th 1 pm - 2:30 pm Data Visualization with Matplotlib, Seaborn and Flask
 4. Oct 14th 1 pm - 2:30 pm Intro to machine learning: sklearn (HW2: Data collection, clearning and exploration, HW1 due)
 5. Oct 21st 1 pm - 2:30 pm Machine learning topic: Trees, Random Forest, Gradient Boosting
