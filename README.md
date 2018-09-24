@@ -13,23 +13,23 @@ This is a non-credit course. The only requirement is:
 4. Can teach other students and friends who ever want to learn programming
 
 ## Class plan
-This would be a 12-week Introduction to Python for data analytics programming course for TC and Columbia students, every Sunday from 1 pm - 2:30 pm. The first class would be on Sep 23rd.
+This would be a 12-week Introduction to Python for data analytics programming course for TC and Columbia students, every Sunday from 1 pm - 3 pm. The first class would be on Sep 23rd.
 
 Location: 424 Horace Mann @Teachers College, Columbia University, 120th street cross with Broadway, NYC
 
 More detail:
-1. Sep 23rd 1 pm - 2:30 pm Intro to Python, Data Structure, Data Clearning and Exploration
-2. Sep 30th 1 pm - 2:30 pm Intro to Statistics Analysis: Chi Square Test, Lineaer & Logistic Regression and Multivariate Analysis (HW1: Research proposal)
-3. Oct 7th 1 pm - 2:30 pm Data Visualization with Matplotlib, Seaborn and Flask
-4. Oct 14th 1 pm - 2:30 pm Intro to machine learning: sklearn (HW2: Data collection, clearning and exploration, HW1 due)
-5. Oct 21st 1 pm - 2:30 pm Machine learning topic: Trees, Random Forest, Gradient Boosting
-6. Oct 28th 1 pm - 2:30 pm Intro to deep learning: tensorflow & Keras (HW3: Data visualization and analysis, HW2 due)
-7. Nov 4th 1 pm - 2:30 pm Student Midterm Project presentation (proposal hearing, HW1-3 demo)
-8. Nov 11th 1 pm - 2:30 pm Deep learning topic: Computational Vision (HW4: Algorithm selection for your data analysis)
-9. Nov 18th 1 pm - 2:30 pm Intro to natural language processing: nltk
-10. Dec 2nd 1 pm - 2:30 pm NLP Topic: NLP with deep learning (HW5: Final Write-up @conference paper format, HW4 due)
-11. Dec 9th 1 pm - 2:30 pm Let's vote for the topic (Web scrabing, Web app development or Time series analysis)
-12. Dec 16th 1 pm - 2:30 pm Student Final Project presentation (HW1-5 project demo)
+1. Sep 23rd 1 - 3 pm Intro to Python, Data Structure, Data Clearning and Exploration
+2. Sep 30th 1 - 3 pm Intro to Statistics Analysis: Chi Square Test, Lineaer & Logistic Regression and Multivariate Analysis (HW1: Research proposal)
+3. Oct 7th 1 - 3 pm Data Visualization with Matplotlib, Seaborn and Flask
+4. Oct 14th 1 - 3 pm Intro to machine learning: sklearn (HW2: Data collection, clearning and exploration, HW1 due)
+5. Oct 21st 1 - 3 pm Machine learning topic: Trees, Random Forest, Gradient Boosting
+6. Oct 28th 1 - 3 pm Intro to deep learning: tensorflow & Keras (HW3: Data visualization and analysis, HW2 due)
+7. Nov 4th 1 - 3 pm Student Midterm Project presentation (proposal hearing, HW1-3 demo)
+8. Nov 11th 1 - 3 pm Deep learning topic: Computational Vision (HW4: Algorithm selection for your data analysis)
+9. Nov 18th 1 - 3 pm Intro to natural language processing: nltk
+10. Dec 2nd 1 - 3 pm NLP Topic: NLP with deep learning (HW5: Final Write-up @conference paper format, HW4 due)
+11. Dec 9th 1 - 3 pm Let's vote for the topic (Web scrabing, Web app development or Time series analysis)
+12. Dec 16th 1 - 3 pm Student Final Project presentation (HW1-5 project demo)
 
 Each weekly topic could be extented into a semester course. This course is served as an introduction to the programming world. I bring you to the door and tell you how to look at the road signs. You need to walk along the path on your own.
 
