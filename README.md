@@ -13,7 +13,7 @@ This is a non-credit course. The only requirement is:
 4. Can teach other students and friends who ever want to learn programming
 
 ## Class plan
-This would be a 12-week Introduction to Python for data analytics programming course for TC and Columbia students, every Sunday from 1 pm - 3 pm. The first class would be on Sep 23rd.
+This would be a 12-week Introduction to Python for data analytics programming course for TC and Columbia students, every Sunday from 1 pm - 3 pm.
 
 Location: 424 Horace Mann @Teachers College, Columbia University, 120th street cross with Broadway, NYC
 
