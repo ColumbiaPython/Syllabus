@@ -57,8 +57,8 @@ https://calendar.google.com/calendar/selfsched?sstoken=UUVhd3J6RjJBeF92fGRlZmF1b
 ## About the instructor
 Xiaoting Kuang, Ed.D Candidate in Teachers College, Columbia University, Adjunct Associate Faculty in School of Professional Studies, Columbia University. 
 Python programmer, R statistician, iOS developer. Interested in natural language processing, knowledge mapping and cognitive science. Applied statistics, deep learning /neural network modelings, and machine learning methods for problem-solving.
-email: xk2120@columbia.edu
+Email: xk2120@columbia.edu
 
 ## Teaching Assistant
 Jiaxi Yang, Ph.D Candidate in Measurement and Evaluation in Teachers College, Columbia University.
-email: jy2710@tc.columbia.edu
+Email: jy2710@tc.columbia.edu
