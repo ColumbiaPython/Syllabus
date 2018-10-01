@@ -19,9 +19,9 @@ Location: 424 Horace Mann @Teachers College, Columbia University, 120th street c
 
 More detail:
 1. Sep 23rd 1 - 3 pm Intro to Python, Data Structure, Data Clearning and Exploration
-2. Sep 30th 1 - 3 pm Intro to Statistics Analysis: Chi Square Test, Lineaer & Logistic Regression and Multivariate Analysis (HW1: Research proposal)
-3. Oct 7th 1 - 3 pm Data Visualization with Matplotlib, Seaborn and Flask
-4. Oct 14th 1 - 3 pm Intro to machine learning: sklearn (HW2: Data collection, clearning and exploration, HW1 due)
+2. Sep 30th 1 - 3 pm Intro to Statistics Analysis: Chi Square Test, Lineaer Regression (HW1: Research proposal)
+3. Oct 7th 1 - 3 pm Multivariate Analysis and Data Visualization with Matplotlib, Seaborn and Flask
+4. Oct 14th 1 - 3 pm Intro to Machine Learning for Classification: Logistic Regression, SVM, and Naive Bayes (HW2: Data collection, clearning and exploration, HW1 due)
 5. Oct 21st 1 - 3 pm Machine learning topic: Trees, Random Forest, Gradient Boosting
 6. Oct 28th 1 - 3 pm Intro to deep learning: tensorflow & Keras (HW3: Data visualization and analysis, HW2 due)
 7. Nov 4th 1 - 3 pm Student Midterm Project presentation (proposal hearing, HW1-3 demo)
