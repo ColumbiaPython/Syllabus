@@ -20,7 +20,7 @@ Location: 424 Horace Mann @Teachers College, Columbia University, 120th street c
 More detail:
 1. Sep 23rd 1 - 3 pm Intro to Python, Data Structure, Data Clearning and Exploration
 2. Sep 30th 1 - 3 pm Intro to Statistics Analysis: Chi Square Test, Lineaer Regression (HW1: Research proposal)
-3. Oct 7th 1 - 3 pm Multivariate Analysis and Data Visualization with Matplotlib, Seaborn and Flask
+3. Oct 7th 1 - 3 pm Multivariate Analysis: Correlation, PCA and Visualization with Matplotlib and Seaborn
 4. Oct 14th 1 - 3 pm Intro to Machine Learning for Classification: Logistic Regression, SVM, and Naive Bayes (HW2: Data collection, clearning and exploration, HW1 due)
 5. Oct 21st 1 - 3 pm Machine learning topic: Trees, Random Forest, Gradient Boosting
 6. Oct 28th 1 - 3 pm Intro to deep learning: tensorflow & Keras (HW3: Data visualization and analysis, HW2 due)
@@ -28,7 +28,7 @@ More detail:
 8. Nov 11th 1 - 3 pm Deep learning topic: Computational Vision (HW4: Algorithm selection for your data analysis)
 9. Nov 18th 1 - 3 pm Intro to natural language processing: nltk
 10. Dec 2nd 1 - 3 pm NLP Topic: NLP with deep learning (HW5: Final Write-up @conference paper format, HW4 due)
-11. Dec 9th 1 - 3 pm Let's vote for the topic (Web scrabing, Web app development or Time series analysis)
+11. Dec 9th 1 - 3 pm Let's vote for the topic (Web scrabing, Web app development with Flask or Time series analysis)
 12. Dec 16th 1 - 3 pm Student Final Project presentation (HW1-5 project demo)
 
 Each weekly topic could be extented into a semester course. This course is served as an introduction to the programming world. I bring you to the door and tell you how to look at the road signs. You need to walk along the path on your own.
